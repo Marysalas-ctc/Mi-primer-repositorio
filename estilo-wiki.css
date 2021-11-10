@@ -1,0 +1,27 @@
+body{
+    font-family: sans-serif;
+}
+.biography{
+background-color:red;
+width: 67%;
+display:inline-block;
+font-size: 14px;
+line-height: 1.6;
+}
+
+.summary{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.summary-table{
+    border:10px solid rgb(0, 38, 255);
+    background-color: chartreuse;
+}
+
+.text-justify{
+    text-align: justify;
+}
+.text-center{
+    text-align: center;
+}

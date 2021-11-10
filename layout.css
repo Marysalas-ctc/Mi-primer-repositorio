@@ -1,0 +1,33 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.364);
+    margin: 5px;
+    float: left;
+}
+.hear{
+    background-color: rgba(240, 102, 102, 0.597);
+    width: 100%;
+    height: 40px;
+    float: left;
+
+}
+.caja2{
+    float: left;
+    width: 25%;
+    height: 400px;
+    background-color: rgba(242, 229, 52, 0.624);
+}
+
+.contenido{
+    float: left;
+    width: 75%;
+    height: 400px;
+    background-color: rgba(221, 120, 221, 0.775);
+}
+.foster{
+    float: left;
+    width: 100%;
+    height: 50px;
+    background-color: rgba(59, 245, 242, 0.624);
+}
